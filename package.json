@@ -1,0 +1,9 @@
+{
+  "name": "stack-four-server",
+  "version": "1.0.0",
+  "description": "Online server for the Stack Four game",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" },
+  "dependencies": { "ws": "^8.18.0" }
+}
